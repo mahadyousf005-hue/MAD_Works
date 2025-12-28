@@ -1,0 +1,23 @@
+{
+  "plugins": [
+    "expo-asset"
+  ],
+  "extra": {
+    "eas": {
+      "projectId": "520034ee-2ee2-4529-b210-88f38627a21a"
+    }
+  },
+  "expo": {
+    "android": {
+      "package": "com.haadyousaf.coffee_shop"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "520034ee-2ee2-4529-b210-88f38627a21a"
+      }
+    },
+    "plugins": [
+      "expo-build-properties"
+    ]
+  }
+}
